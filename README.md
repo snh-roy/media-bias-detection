@@ -1,6 +1,8 @@
-## This repository contains the intermediate milestone for a Natural Language Procession course, it is designed to detect subjective bias in news media using Machine Learning models. 
+# NLP Project
+This repository contains the intermediate milestone for a Natural Language Procession course, it is designed to detect subjective bias in news media using Machine Learning models. 
 
-## As of now, this project implements a **Baseline Logistic Regression Model** to classify text as either *Biased* or *Neutral*.
+## Current Phase
+As of now, this project implements a **Baseline Logistic Regression Model** to classify text as either *Biased* or *Neutral*.
 
 ### Key Features:
 * **Custom Text Pipeline:** Integrated cleaning using `contractions.py` for text normalization.
@@ -22,7 +24,7 @@ There is **no need to download a CSV file** separately. The project uses the Hug
 
 
 2. **Install dependencies:**
-    pip install pandas scikit-learn datasets
+    pip install -r requirements.txt
 
 3. **Exceute**
-Open notebooks/01_baseline_model.ipynb in your IDE and run all cells. 
+Open notebooks/01_baseline_model.ipynb in your IDE and run all the cells. 
