@@ -1,0 +1,12 @@
+# Data Loading & Manipulation
+datasets
+pandas
+numpy
+
+# Machine Learning & NLP
+scikit-learn
+re
+
+# Development Environment (Optional but helpful)
+ipykernel
+
